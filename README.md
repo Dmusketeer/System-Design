@@ -26,7 +26,7 @@
 
 
 
-## Horizontal Scaling
+### Horizontal Scaling
 - It is defined as the process of adding more instances of the same type to the existing pool of resources and not increasing the capacity of existing resources like in vertical scaling. This kind of scaling also helps in decreasing the load on the server. This is called <b>Horizontal Scaling</b>.Horizontal Scaling is also called the Scale-out approach. 
 - In this process, the number of servers is increased and not the individual capacity of the server. This is done with the help of a <b>Load Balancer</b> which basically routes the user requests to different servers according to the availability of the server. Thereby, increasing the overall performance of the system. In this way, the entire process is distributed among all servers rather than just depending on a single server. 
 
